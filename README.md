@@ -3,10 +3,10 @@
 ## 相対パスによる指定
 
 ```
-![./images/image01.png](./images/image01.png)
+![alt文言](./images/image01.png)
 ```
 
-こんな感じに書けば下のようになる。
+こんな感じに書けば下のように画像が貼れる。
 
 ![./images/image01.png](./images/image01.png)
 
